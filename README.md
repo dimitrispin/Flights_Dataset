@@ -1,5 +1,6 @@
 # Flights_Dataset
-A Jupyter notebook to analyze data from the Kaggle datasetflight-delays
+A Jupyter notebook to analyze data from the Kaggle datasetflight-delays.
+
 The tasks we performed:
 
 Task 1: We would like you to left join flights with airlines and airports. We described number of rows, null values. Also, we described  cleaning processes taht i found necessary.
